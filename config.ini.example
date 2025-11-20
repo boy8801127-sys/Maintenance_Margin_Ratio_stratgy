@@ -1,0 +1,14 @@
+[Core]
+entry = https://esuntradingapi.esunsec.com.tw/api/v1
+
+[Cert]
+path = /path/to/your/certificate.p12
+password = your_certificate_password
+
+[Api]
+key = your_api_key_here
+secret = your_api_secret_here
+
+[User]
+account = your_account_here
+password = your_password_here
