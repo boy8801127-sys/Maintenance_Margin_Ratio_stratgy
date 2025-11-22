@@ -188,6 +188,7 @@ config.ini
 *.tsv
 *.xlsx
 *.png
+!個股融資維持率量化交易策略.png
 *.jpg
 *.jpeg
 *.gif
